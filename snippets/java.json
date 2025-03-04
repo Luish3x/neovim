@@ -1,0 +1,13 @@
+{
+	"System.out.println": {
+		"prefix": "sout",
+		"body": "System.out.println(\"$1\");",
+		"description": "Prints to System.out"
+	},
+	"System.out.print": {
+		"prefix": "sop",
+		"body": "System.out.print(\"$1\");",
+		"description": "Prints without newline"
+	}
+}
+
