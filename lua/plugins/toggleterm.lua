@@ -3,11 +3,11 @@ return{
 	{'akinsho/toggleterm.nvim', version = "*",
 	config = function()
 		require("toggleterm").setup{
+			-- open_mapping = [[<leader>t]],  -- Abre el terminal con Ctrl+\.
 			open_mapping = [[<A-3>]],  -- Abre el terminal con Ctrl+\.
 			direction = 'float',
-	}
+		}
 	end,
 	},
-
 }
 

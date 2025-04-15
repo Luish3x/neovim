@@ -29,7 +29,7 @@ map ("n", "<leader>fh", "<cmd>Telescope help_tags<cr>")
 map ("n", "<leader>xe", "<cmd>NvimTreeFindFileToggle<cr>")
 
 -- Toogle Term
-map ("n", "<leader>t", "<cmd>ToggleTerm<cr>")
+-- map ("n", "<leader>t", "<cmd>ToggleTerm<cr>")
 
 -- Explorador de archivos 
 map ("n", "<leader>e", "<cmd>Oil<cr>")
