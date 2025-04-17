@@ -9,12 +9,12 @@ return {
 				"rust_analyzer",
 				"jdtls",          -- Java
 				"clangd",         -- C, C++
-				--"csharp_ls",      -- C#
+				"csharp_ls",      -- C#
 				"pyright",        -- Python
-				--"gopls",          -- Go
+			--	"gopls",          -- Go
 				"html",           -- HTML
 				"cssls",          -- CSS
-				--"tsserver",       -- JavaScript/TypeScript
+			--	"tsserver",       -- JavaScript/TypeScript
 			},
 		})
 	end,
